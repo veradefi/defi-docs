@@ -9,7 +9,7 @@
 * [Setting Up The Node](getting-started/setting-up-the-node.md)
 * [Interact With The Node](getting-started/interact-with-the-node.md)
 * [Building Smart Contracts](getting-started/building-smart-contracts.md)
-* [Deploying Smart Contracts](getting-started/deploying-smart-contracts.md)
+* [Deploying Our PoC](getting-started/deploying-our-poc.md)
 
 ---
 
