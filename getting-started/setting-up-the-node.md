@@ -14,5 +14,5 @@ $ canvas --dev --ws-external --rpc-external --prometheus-external
 
 You should see something like this.
 
-![](../.gitbook/assets/6.png)
+![](../.gitbook/assets/canvas.gif)
 
