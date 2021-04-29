@@ -1,7 +1,3 @@
----
-description: "\U0001F680"
----
-
 # Deploying Our PoC
 
 ### Follow the steps below to test our proof of concept that's deployed [here](http://sandbox.vera.financial/#/contracts)

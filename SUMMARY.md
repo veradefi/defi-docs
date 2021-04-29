@@ -14,6 +14,7 @@
 ---
 
 * [Asset Manager](asset-manager.md)
+* [Intrest Calculation](intrest-calculation.md)
 
 ## 🗒️ API References
 

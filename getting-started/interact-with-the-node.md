@@ -8,7 +8,7 @@ You can use the [**Polkadot dashboard app**](http://sandbox.vera.financial/) ***
 
 {% embed url="http://sandbox.vera.financial/" caption="Polkadot/Substrate Dashboard" %}
 
-### 2. Connect To Our Node
+### 2. Connect Our Node
 
 Click on development and choose a local node and click on switch.
 
