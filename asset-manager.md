@@ -26,7 +26,7 @@ pub fn new(
 
 ### Ownership
 
-By default, the owner of AssetManager is same as the one who instantiates contract. There are certain actions that can only be performed by owner like modifying interest rate, modifying transfer rate, enabling/disabling borrowing etc. Ownership can be transferred to another account using `transfer_ownership(new_owner)`.
+By default, the owner of AssetManager is the same as the one who instantiates contract. There are certain actions that can only be performed by owner like modifying interest rate, modifying transfer rate, enabling/disabling borrowing etc. Ownership can be transferred to another account using `transfer_ownership(new_owner)`.
 
 ### Approvals
 
