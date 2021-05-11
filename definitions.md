@@ -14,5 +14,7 @@
 **Roles**
 
 **Investor:** Owner of NFT, who want to lease out their assets  
-**Renter:** The user who rented assets.
+**Renter:** The user who rent assets.
+
+
 

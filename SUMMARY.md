@@ -14,6 +14,7 @@
 ---
 
 * [Asset Manager](asset-manager.md)
+* [Lending Manager](lending-manager.md)
 * [Intrest Calculation](intrest-calculation.md)
 
 ## 🗒️ API References
