@@ -1,6 +1,6 @@
 # Building Smart Contracts
 
-### Install cargo-contract
+## Install cargo-contract
 
 To build the Substrate smart contract project we will need CLI utility
 
@@ -12,7 +12,7 @@ $ rustup component add rust-src --toolchain nightly
 $ cargo install cargo-contract --vers ^0.11 --force --locked
 ```
 
-### 🧪 Test
+## 🧪 Test
 
 To test your smart contract, run the following command
 
@@ -20,13 +20,11 @@ To test your smart contract, run the following command
 $ cargo test
 ```
 
-### 🏗️ Build
+## 🏗️ Build
 
 To compile your smart contract, run the following command
 
 ```bash
 $ cargo +nightly contract build
 ```
-
-### 
 

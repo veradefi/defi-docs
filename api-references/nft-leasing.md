@@ -4,9 +4,9 @@ description: Allow NFT owners to list their tokens to be rented by other users.
 
 # NFT Leasing
 
-### **listToken:**
+## **listToken:**
 
-**Input:** 
+**Input:**
 
 * NFT address, the tokenID
 * Rent Amount daily. 
@@ -16,19 +16,19 @@ description: Allow NFT owners to list their tokens to be rented by other users.
 
 * Tx ID
 
-Allow NFT owners to list their NFT assets for lease. 
+Allow NFT owners to list their NFT assets for lease.
 
-### rent
+## rent
 
-**Input:** 
+**Input:**
 
 * Tx ID
 
   This function will be called by renter to lease a specific NFT asset.
 
-### payRent
+## payRent
 
-**Input:** 
+**Input:**
 
 * Tx ID
 

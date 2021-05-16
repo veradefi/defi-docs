@@ -2,7 +2,7 @@
 
 ### Prepare a computer for Substrate development
 
-{% embed url="https://substrate.dev/docs/en/knowledgebase/getting-started/" %}
+{% embed url="https://substrate.dev/docs/en/knowledgebase/getting-started/" caption="" %}
 
 {% hint style="info" %}
 You can follow the detailed guide from [Substrate Developer Hub.](https://substrate.dev/docs/en/knowledgebase/getting-started/)
@@ -66,6 +66,4 @@ rustup update
 rustup update nightly
 rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
-
-### 
 

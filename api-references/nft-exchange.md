@@ -7,7 +7,7 @@ description: >-
 
 # NFT Exchange
 
-### createTrade:
+## createTrade:
 
 **Inputs:**
 
@@ -25,7 +25,7 @@ When called, the user will be asked to approve the transaction, and the NFTs wil
 
 to the smart contract . The function will generate a unique trade ID.
 
-### Purchase
+## Purchase
 
 **Input:**
 
@@ -37,7 +37,7 @@ will get the tokens to pay with from them, they need to approve them first, coll
 
 send the rest to the seller.At the same time, it will send the NFTs to the buyer. The trade is then marked as completed.
 
-### expireTrade:
+## expireTrade:
 
 **Input:**
 
@@ -45,11 +45,11 @@ send the rest to the seller.At the same time, it will send the NFTs to the buyer
 
 This function can be called by a seller to expire a non fulfilled trade to recover their NFT token.
 
-### withdrawFees: 
+## withdrawFees:
 
 The administrator of the smart contract can call this function to withdraw fees.
 
-### ListTrades:
+## ListTrades:
 
 **Inputs:** None
 
