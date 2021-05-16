@@ -25,7 +25,7 @@
 ## 🔗 Useful links
 
 * [Website](https://vera.financial/)
-* [Github](https://github.com/VeraProtocol)
-* [Telegram](https://t.me/veraprotocol)
-* [Twitter](https://twitter.com/veraprotocol)
-
+* [Github](https://github.com/veradefi)
+* [Twitter](https://twitter.com/veradefi)
+* [Telegram Community](https://t.me/veranetwork)
+* [Telegram Channel](https://t.me/veranetwork_channel)
