@@ -26,6 +26,10 @@
 
 * [Website](https://vera.financial/)
 * [Github](https://github.com/veradefi)
-* [Telegram](https://t.me/veraprotocol)
 * [Twitter](https://twitter.com/veradefi)
+* [Telegram Community](https://t.me/veranetwork)
+
+---
+
+* [Telegram](https://t.me/veranetwork_channel)
 
