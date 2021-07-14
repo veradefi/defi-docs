@@ -6,9 +6,9 @@ description: >-
 
 # NFT Lending
 
-## **listToken**
+### **listToken**
 
-**Input:**
+**Input:** 
 
 * NFT address, the tokenID
 * Address in which they want to get paid and the amount 
@@ -18,10 +18,10 @@ description: >-
 
 * Tx ID
 
-This function will be used by borrowers to list a new loan opportunity.  
-_\*\*_When called, the user will be asked to approve the transaction, and the NFTs will be transferred to the smart contract as collateral. The function will generate a unique trade ID.
+This function will be used by borrowers to list a new loan opportunity.   
+****When called, the user will be asked to approve the transaction, and the NFTs will be transferred to the smart contract as collateral. The function will generate a unique trade ID.
 
-## Lend
+### Lend
 
 **Inputs:**
 
@@ -29,7 +29,7 @@ _\*\*_When called, the user will be asked to approve the transaction, and the NF
 
 This function will be called by investors to perform a trade by sending the trade ID. The function will get the tokens to pay with from them.
 
-## **withdraw**
+### **withdraw**
 
 **Inputs:**
 
@@ -37,7 +37,7 @@ This function will be called by investors to perform a trade by sending the trad
 
 This function will be called by borrower to pay back their loans with interest and get back the NFT
 
-## **cancleLoan**
+### **cancleLoan**
 
 **Inputs:**
 
@@ -45,7 +45,7 @@ This function will be called by borrower to pay back their loans with interest a
 
 This function will be called by the investor to get NFT from the smart contract when the borrower fails to pay back on time.
 
-## **listLoans**
+### **listLoans**
 
 **Inputs:** None
 
