@@ -1,6 +1,6 @@
 # Deploying Our PoC
 
-## Follow the steps below to test our proof of concept that's deployed [here](http://sandbox.vera.financial/#/contracts)
+### Follow the steps below to test our proof of concept that's deployed [here](http://sandbox.vera.financial/#/contracts)
 
 1. Upload contract metadata and wasm \(.contract files\) for erc20, erc721 and AssetManager 
 2. Instantiate erc20 and erc721 contracts first using Alice as owner. erc20 initial supply is set to 1 billion units and both contracts get 10 units endowment. 

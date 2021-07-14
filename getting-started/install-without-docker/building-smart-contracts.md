@@ -9,20 +9,20 @@ rustup component add rust-src --toolchain nightly
 ```
 
 ```bash
-cargo install cargo-contract --vers ^0.11 --force --locked
+cargo install cargo-contract --vers ^0.8 --force --locked
 ```
 
 ### 🧪 Test
 
-To test your smart contract, run the following command
+To test the smart contract, run the following command
 
 ```bash
-cargo test
+cargo +nightly test
 ```
 
 ### 🏗️ Build
 
-To compile your smart contract, run the following command
+To compile the smart contract, run the following command
 
 ```bash
 cargo +nightly contract build
