@@ -48,22 +48,10 @@ sudo dnf install clang curl git openssl-devel
 
 ## 2. Install Rust toolchain
 
-This guide uses [`rustup`](https://rustup.rs/) to help manage the Rust toolchain. First, install and configure `rustup`:
+Run this command from a terminal:
 
 ```bash
-# Install
-curl https://sh.rustup.rs -sSf | sh
-# Configure
-source ~/.cargo/env
-```
-
-Configure the Rust toolchain to default to the latest stable version, add nightly and the nightly wasm target:
-
-```text
-rustup default stable
-rustup update
-rustup update nightly
-rustup target add wasm32-unknown-unknown --toolchain nightly
+curl https://getsubstrate.io -sSf | bash -s -- --fast
 ```
 
 ### 
