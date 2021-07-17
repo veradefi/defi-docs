@@ -46,13 +46,11 @@ sudo dnf update
 sudo dnf install clang curl git openssl-devel
 ```
 
-## 2. Install Rust toolchain
+## 2. Setup Rust Developer Environment
 
 Run this command from a terminal:
 
 ```bash
 curl https://getsubstrate.io -sSf | bash -s -- --fast
 ```
-
-### 
 
