@@ -5,7 +5,7 @@
 Using this one command, you will have a ready-to-use environment.
 
 ```bash
-docker run -it garytechlead/substrate_env:latest
+docker run -it veradefi/substrate_env:latest
 ```
 
 {% hint style="info" %}
