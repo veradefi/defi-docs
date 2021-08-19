@@ -1,4 +1,4 @@
-# Intrest Calculation
+# Interest Calculation
 
 Vera uses a **daily** compounding interest rate mechanism based on binomial expansion.
 
