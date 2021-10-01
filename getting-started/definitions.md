@@ -1,5 +1,14 @@
 # Definitions
 
+Some terms used throughout the documentation may be unfamiliar to developers. Below we list some common terms that will help with your understanding. 
+
+If you need development support,  join the \#developers channel on our [Vera community Discord server](https://vera.financial/discord).
+
+| **Term** | Description |
+| :--- | :--- |
+| NFT | Non-fungible tokens are unique digital assets that cannot be cloned or replaced. Their chain of custody may be verified on a blockchain. |
+| APY | Annual Percentage Yield, which is the yield/interest after a year, which includes compounding interest. Note that this is different from Annual Percentage Rate \(APR\), which does not take into account compounding effects. |
+
 ## Lending
 
 **Roles**
