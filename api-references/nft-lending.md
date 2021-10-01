@@ -4,7 +4,7 @@ description: >-
   assets.
 ---
 
-# NFT Lending
+# NFT Lend
 
 ### **listToken**
 

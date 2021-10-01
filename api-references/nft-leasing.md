@@ -2,7 +2,7 @@
 description: Allow NFT owners to list their tokens to be rented by other users.
 ---
 
-# NFT Leasing
+# NFT Rent
 
 ### **listToken:**
 

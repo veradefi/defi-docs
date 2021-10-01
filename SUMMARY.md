@@ -24,8 +24,8 @@
 
 ## API References
 
-* [NFT Lending](api-references/nft-lending.md)
-* [NFT Leasing](api-references/nft-leasing.md)
+* [NFT Lend](api-references/nft-lending.md)
+* [NFT Rent](api-references/nft-leasing.md)
 * [NFT Exchange](api-references/nft-exchange.md)
 
 ## Useful Links
