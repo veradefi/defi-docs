@@ -1,4 +1,4 @@
-# Vera Document Portal
+# Vera Documents Hub
 
 This site provides documentation for Vera which is a universal infrastructure for decentralized finance, that enables peer-to-peer use cases of digital and real-world NFT assets on a cross DLT implementation.
 
