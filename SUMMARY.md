@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Vera](README.md)
+* [Vera Document Portal](README.md)
 * [Definitions](definitions.md)
 
 ## 👋 Getting Started
