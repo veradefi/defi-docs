@@ -1,10 +1,12 @@
 # Table of contents
 
 * [Vera Document Portal](README.md)
-* [Definitions](definitions.md)
+* [FAQ](https://docs.vera.financial/faq)
+* [Community Discord](https://vera.financial/discord)
 
 ## 👋 Getting Started
 
+* [Definitions](getting-started/definitions.md)
 * [Using docker](getting-started/using-docker/README.md)
   * [Install Docker](getting-started/using-docker/install-docker.md)
   * [Build using Docker](getting-started/using-docker/build-using-docker.md)
