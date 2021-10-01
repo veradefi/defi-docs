@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Vera Documents Hub](README.md)
+* [Introduction](README.md)
 * [FAQ](https://docs.vera.financial/faq)
 * [Community Discord](https://vera.financial/discord)
 
