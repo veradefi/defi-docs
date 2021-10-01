@@ -4,7 +4,7 @@
 * [FAQ](https://docs.vera.financial/faq)
 * [Community Discord](https://vera.financial/discord)
 
-## 👋 Getting Started
+## Getting Started
 
 * [Definitions](getting-started/definitions.md)
 * [Using docker](getting-started/using-docker/README.md)
@@ -22,13 +22,13 @@
 * [Asset Manager](asset-manager.md)
 * [Interest Calculation](interest-calculation.md)
 
-## 🗒️ API References
+## API References
 
 * [NFT Lending](api-references/nft-lending.md)
 * [NFT Leasing](api-references/nft-leasing.md)
 * [NFT Exchange](api-references/nft-exchange.md)
 
-## 🔗 Useful links
+## Useful Links
 
 * [Website](https://vera.financial/)
 * [Github](https://github.com/veradefi)
