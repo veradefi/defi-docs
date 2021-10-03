@@ -13,12 +13,9 @@
   * [Setting Up The Node](getting-started/install-without-docker/setting-up-the-node.md)
   * [Interact With The Node](getting-started/install-without-docker/interact-with-the-node.md)
   * [Building Smart Contracts](getting-started/install-without-docker/building-smart-contracts.md)
-* [Deploying Our PoC](getting-started/deploying-our-poc.md)
-
----
-
-* [Asset Manager](asset-manager.md)
-* [Interest Calculation](interest-calculation.md)
+* [Deploying Our PoC](getting-started/deploying-our-poc/README.md)
+  * [Asset Manager](getting-started/deploying-our-poc/asset-manager.md)
+* [Interest Calculation](getting-started/interest-calculation.md)
 
 ## API References
 
