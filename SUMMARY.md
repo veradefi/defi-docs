@@ -26,11 +26,12 @@
 * [NFT Rent](api-references/nft-leasing.md)
 * [NFT Exchange](api-references/nft-exchange.md)
 
-## Useful Links
+## Community Links
 
-* [Website](https://vera.financial/)
 * [Github](https://github.com/veradefi)
 * [Twitter](https://twitter.com/veradefi)
+* [Discord Community](https://vera.financial/discord)
 * [Telegram Community](https://t.me/veranetwork)
 * [Telegram Channel](https://t.me/veranetwork_channel)
+* [LinkedIn](https://www.linkedin.com/company/vera-labs)
 
