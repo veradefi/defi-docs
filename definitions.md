@@ -13,7 +13,7 @@ Si necesita ayuda para el desarrollo, únete al canal #developers en nuestra com
 
 **Roles**
 
-**Inversor:** El usuario que proporciona fondos como préstamo a otros y obtiene intereses. **Prestatario:** el usuario que pone activos NFT como un clasificador y toma un préstamo de fondo a cambio y paga intereses.
+**Inversor:** El usuario que proporciona fondos como préstamo a otros y obtiene intereses. **Prestatario:** El usuario que pone activos NFT como un clasificador y toma un préstamo de fondo a cambio y paga intereses.
 
 ![](.gitbook/assets/screenshot-from-2021-04-15-17-01-24.png)
 
@@ -21,7 +21,7 @@ Si necesita ayuda para el desarrollo, únete al canal #developers en nuestra com
 
 **Roles**
 
-**Inversor:** propietario de NFT, que quiere arrendar sus activos.&#x20;
+**Inversor:** Propietario de NFT, que quiere arrendar sus activos.&#x20;
 
-**Arrendatario:** el usuario que alquila activos.
+**Arrendatario:** El usuario que alquila activos.
 
