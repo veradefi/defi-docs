@@ -1,7 +1,7 @@
-# Introducción
+# Introduction
 
-Vera es la plataforma financiera abierta más poderosa para activos de tokens no fungibles (NFT). Vera ofrece financiamiento descentralizado, leasing, préstamos y otros servicios financieros esenciales para cualquier mercado, juego o aplicación de NFT.
+Vera is the most powerful open financial platform for non-fungible token (NFT) assets. Vera offers decentralized financing, leasing, lending, and other essential financial services for any NFT marketplace, game, or application.
 
-La siguiente documentación describe los fundamentos del protocolo y cómo interactuar con él. Únete al canal #development en el; nuestro equipo y los miembros de nuestra comunidad [Discord ](https://discord.com/invite/fB9nuS2ktf)esperan poder ayudarlo a construir sobre Vera.
+The following documentation describes the fundamentals of the protocol and how to interact with it. Please join the #development channel in the [Discord](https://discord.com/invite/fB9nuS2ktf) ; our team and members of the community look forward to helping you build on top of Vera.
 
-El protocolo se implementa como un conjunto de **contratos inteligentes **sobre varias cadenas de bloques como Ethereum. Los contratos inteligentes garantizan la seguridad y no requieren un intermediario.
+The protocol is implemented as a set of **smart contracts** on top of various blockchains such as Ethereum. Smart contracts guarantee safety and do not require a middleman.
