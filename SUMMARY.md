@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introducción](README.md)
-* [Definitions](definitions.md)
+* [Definiciones](definitions.md)
 
 ## Getting Started
 

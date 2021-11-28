@@ -1,29 +1,27 @@
-# Definitions
+# Definiciones
 
-Some terms used throughout the documentation may be unfamiliar to developers. Below we list some common terms that will help with your understanding. 
+Algunos términos utilizados en la documentación pueden resultar desconocidos para los desarrolladores. A continuación, enumeramos algunos términos comunes que ayudarán a comprenderlo.&#x20;
 
-If you need development support,  join the \#developers channel on our [Vera community Discord server](https://vera.financial/discord).
+Si necesita ayuda para el desarrollo, únete al canal #developers en nuestra comunidad [Discord](https://vera.financial/discord).
 
-| **Term** | Description |
-| :--- | :--- |
-| NFT | Non-fungible tokens are unique digital assets that cannot be cloned or replaced. Their chain of custody may be verified on a blockchain. |
-| APY | Annual Percentage Yield, which is the yield/interest after a year, which includes compounding interest. Note that this is different from Annual Percentage Rate \(APR\), which does not take into account compounding effects. |
+| **Termino** | Descripción                                                                                                                                                                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NFT         | Los tokens no fungibles son activos digitales únicos que no se pueden clonar ni reemplazar. Su cadena de custodia se puede verificar en una cadena de bloques.                                                                                |
+| APY         | Rendimiento porcentual anual, que es el rendimiento / interés después de un año, que incluye el interés compuesto. Tenga en cuenta que esto es diferente de la tasa de porcentaje anual (APR), que no tiene en cuenta los efectos compuestos. |
 
-## Lending
+## Préstamo
 
 **Roles**
 
-**Investor:** The user who provides funds as a loan to others, and gets interest.  
-**Borrower:** The user who puts NFT assets as a collator and takes a fund loan in exchange and pays interest.
+**Inversor:** El usuario que proporciona fondos como préstamo a otros y obtiene intereses. **Prestatario:** el usuario que pone activos NFT como un clasificador y toma un préstamo de fondo a cambio y paga intereses.
 
 ![](.gitbook/assets/screenshot-from-2021-04-15-17-01-24.png)
 
-## Leasing
+## Arrendamiento
 
 **Roles**
 
-**Investor:** Owner of NFT, who want to lease out their assets  
-**Renter:** The user who rent assets.
+**Inversor:** propietario de NFT, que quiere arrendar sus activos.&#x20;
 
-
+**Arrendatario:** el usuario que alquila activos.
 
