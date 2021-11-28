@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenido a vera](README.md)
+* [Welcome to Vera](README.md)
 * [Definitions](definitions.md)
 
 ## 👋 Getting Started

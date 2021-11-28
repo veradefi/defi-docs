@@ -1,7 +1,7 @@
-# Bienvenido a vera
+# Welcome to Vera
 
-Este sitio proporciona documentación para Vera, que es una infraestructura de liquidez para las finanzas descentralizadas, que permite casos de uso de igual a igual de activos NFT digitales y del mundo real en una implementación de DLT cruzada.
+This site provides documentation for Vera which is a liquidity infrastructure for decentralized finance, that enables peer-to-peer use cases of digital and real-world NFT assets on a cross DLT implementation.
 
-Vera cree que comprar, vender, prestar, pedir prestado o arrendar activos como NFT entre extraños debería ser tan fácil y accesible como enviar un correo electrónico, independientemente de su ubicación o de quién sea.
+Vera thinks that Buying, Selling, Lending, Borrowing, or Leasing assets as NFTs between strangers should be as easy and accessible as sending an email regardless of your location or who you are.
 
 ![](.gitbook/assets/logo-vera-full.png)
