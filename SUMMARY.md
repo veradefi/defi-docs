@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 * [Definitions](definitions.md)
 
 ## Getting Started
@@ -29,6 +29,5 @@
 * [Twitter](https://twitter.com/veradefi)
 * [Discord Community](https://vera.financial/discord)
 * [Telegram Community](https://t.me/veranetwork)
-* [Telegram Channel](https://t.me/veranetwork_channel)
+* [Telegram Channel](https://t.me/veranetwork\_channel)
 * [LinkedIn](https://www.linkedin.com/company/vera-labs)
-
