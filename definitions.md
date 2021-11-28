@@ -2,7 +2,7 @@
 
 Some terms used throughout the documentation may be unfamiliar to developers. Below we list some common terms that will help with your understanding.&#x20;
 
-If you need development support, join the #developers channel on our [Discord](https://vera.financial/discord).
+If you need development support, join the #developers channel on our [Vera community Discord server](https://discord.com/invite/fB9nuS2ktf).
 
 | **Term** | Description                                                                                                                                                                                                                  |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
