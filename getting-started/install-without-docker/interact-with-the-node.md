@@ -4,9 +4,11 @@
 
 ### 1. Open Polkadot UI App
 
-You can use the [**Polkadot dashboard app**](http://sandbox.vera.financial/) ****which is deployed on our server to help interact with the Substrate node.
+You can use the [**Polkadot dashboard app**](http://sandbox.vera.financial/) **** which is deployed on our server to help interact with the Substrate node.
 
-{% embed url="http://sandbox.vera.financial/" caption="Polkadot/Substrate Dashboard" %}
+{% embed url="http://sandbox.vera.financial/" %}
+Polkadot/Substrate Dashboard
+{% endembed %}
 
 ### 2. Connect Our Node
 
@@ -22,4 +24,3 @@ The local node provides two RPC endpoints:
 {% endhint %}
 
 With Polkadot JS Apps connected, you will see our node producing blocks.
-

@@ -16,6 +16,7 @@
 * [Deploying Our PoC](getting-started/deploying-our-poc/README.md)
   * [Asset Manager](getting-started/deploying-our-poc/asset-manager.md)
 * [Interest Calculation](getting-started/interest-calculation.md)
+* [Audit Report](getting-started/audit-report.md)
 
 ## API References
 
